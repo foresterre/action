@@ -1,6 +1,6 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'cargo-publish-action'
+description: 'Publish packages to crates.io, when a new version  has been detected'
+author: 'Martijn Gribnau'
 inputs:
   milliseconds: # change this
     required: true

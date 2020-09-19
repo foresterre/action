@@ -14,5 +14,5 @@ Intent:
 
 ### Acknowledgements
 
-Based on GitHub Actions (typescript-action)[https://github.com/actions-rs/core/tree/1b3bf36903648e0f2db0286ede1348abbac16f60] template, licensed under the MIT license.
+Based on GitHub Actions [typescript-action](https://github.com/actions/typescript-action) template, licensed under the MIT license.
 
